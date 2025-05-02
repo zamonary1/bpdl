@@ -3,7 +3,7 @@
 ## Overview
 A simple CLI tool that automatically downloads and unpacks a .bplist file.
 
-Written in rust🦀
+Written in rust🦀 and **has no external dependencies**
 
 ## Installation
 ```bash
