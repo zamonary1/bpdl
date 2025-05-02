@@ -7,7 +7,7 @@ Written in rust🦀
 
 ## Installation
 ```bash
-cargo install --path .
+cargo install --git https://github.com/zamonary1/bpdl
 ```
 
 ## Usage
