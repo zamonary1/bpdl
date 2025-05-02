@@ -2,7 +2,7 @@ use std::{fs, io, path::PathBuf};
 
 use bytes::Bytes;
 use clap::{CommandFactory, Parser, error::ErrorKind};
-use net::{download_file, download_file_bytes};
+use net::download_file_bytes;
 use serde::Deserialize;
 // use tokio_stream::{Stream, StreamExt};
 
@@ -102,17 +102,22 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     println!("Unzipping files.");
 
-    let mut i: usize = 0;
+    if args.overwrite && out_dir.exists() {
+        fs::remove_dir_all(&out_dir)?;
+    }
+
+    let mut i: usize = json.songs.len().clone();
     while !zip_archives.is_empty() {
+        i -= 1;
+
         let dir = out_dir.join(&json.songs[i].songName);
         fs::create_dir_all(&dir)?;
         // dir name is simply song's name
+
         let archive = io::Cursor::new(zip_archives.pop().unwrap());
         // creates a pointer to the last zip archive in buffer and removes it
 
         zip_extract::extract(archive, &dir, true)?;
-
-        i += 1;
     }
 
     println!("\nEverything done! You can find your files in {out_dir:?}");
