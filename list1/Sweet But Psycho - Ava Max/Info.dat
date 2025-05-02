@@ -1,0 +1,43 @@
+{
+  "_version": "2.1.0",
+  "_songName": "Check",
+  "_songSubName": "",
+  "_songAuthorName": "bbno$",
+  "_levelAuthorName": "cloudberry",
+  "_beatsPerMinute": 134.0,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 25.0,
+  "_previewDuration": 10.0,
+  "_songFilename": "SpotiDownloader.com-check-bbno_.egg",
+  "_coverImageFilename": "1200x1200bf-60.jpg",
+  "_environmentName": "InterscopeEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentNames": [],
+  "_colorSchemes": [],
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.11.793"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -0.8,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0
+        }
+      ]
+    }
+  ]
+}

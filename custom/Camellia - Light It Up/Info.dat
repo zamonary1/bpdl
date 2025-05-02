@@ -1,0 +1,152 @@
+{
+  "_version": "2.1.0",
+  "_songName": "Cherry on Top",
+  "_songSubName": "",
+  "_songAuthorName": "YOUHA",
+  "_levelAuthorName": "Danny",
+  "_beatsPerMinute": 95.0,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 56.6,
+  "_previewDuration": 10.0,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "BTSEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentNames": [],
+  "_colorSchemes": [],
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.10.763"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": -0.03,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.988,
+              "g": 0.51,
+              "b": 0.49
+            },
+            "_colorRight": {
+              "r": 0.09,
+              "g": 0.816,
+              "b": 0.827
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.541,
+              "b": 0.333
+            },
+            "_envColorRight": {
+              "r": 0.992,
+              "g": 0.824,
+              "b": 0.447
+            },
+            "_envColorWhite": {
+              "r": 0.961,
+              "g": 0.804,
+              "b": 0.604
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.29,
+              "b": 0.031
+            },
+            "_envColorRightBoost": {
+              "r": 0.957,
+              "g": 0.659,
+              "b": 0
+            },
+            "_envColorWhiteBoost": {
+              "r": 0.643,
+              "g": 0,
+              "b": 0.047
+            },
+            "_obstacleColor": {
+              "r": 0.953,
+              "g": 0.761,
+              "b": 0.533
+            },
+            "_suggestions": [
+              "Cinema"
+            ]
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": -0.14,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.988,
+              "g": 0.51,
+              "b": 0.49
+            },
+            "_colorRight": {
+              "r": 0.09,
+              "g": 0.816,
+              "b": 0.827
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.541,
+              "b": 0.333
+            },
+            "_envColorRight": {
+              "r": 0.992,
+              "g": 0.824,
+              "b": 0.447
+            },
+            "_envColorWhite": {
+              "r": 0.961,
+              "g": 0.804,
+              "b": 0.604
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.29,
+              "b": 0.031
+            },
+            "_envColorRightBoost": {
+              "r": 0.957,
+              "g": 0.659,
+              "b": 0
+            },
+            "_envColorWhiteBoost": {
+              "r": 0.643,
+              "g": 0,
+              "b": 0.047
+            },
+            "_obstacleColor": {
+              "r": 0.953,
+              "g": 0.761,
+              "b": 0.533
+            },
+            "_suggestions": [
+              "Cinema"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

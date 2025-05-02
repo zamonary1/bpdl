@@ -1,0 +1,175 @@
+{
+  "_version": "2.1.0",
+  "_songName": "In the Air Tonight",
+  "_songSubName": "2015 remaster",
+  "_songAuthorName": "Phil Collins",
+  "_levelAuthorName": "Undeceiver & DesperateWoman & RateGyro",
+  "_beatsPerMinute": 95.0,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 214.5,
+  "_previewDuration": 18.0,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "MetallicaEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentNames": [],
+  "_colorSchemes": [
+    {
+      "useOverride": true,
+      "colorScheme": {
+        "colorSchemeId": "New Color Scheme",
+        "saberAColor": {
+          "r": 0.5451,
+          "g": 0.0549,
+          "b": 0.0784,
+          "a": 1.0
+        },
+        "saberBColor": {
+          "r": 0.0627,
+          "g": 0.2,
+          "b": 0.5686,
+          "a": 1.0
+        },
+        "environmentColor0": {
+          "r": 0.8667,
+          "g": 0.4941,
+          "b": 0.3804,
+          "a": 1.0
+        },
+        "environmentColor1": {
+          "r": 0.2549,
+          "g": 0.4549,
+          "b": 0.8667,
+          "a": 1.0
+        },
+        "obstaclesColor": {
+          "r": 0.8392,
+          "g": 0.098,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "environmentColor0Boost": {
+          "r": 0.898,
+          "g": 0.0353,
+          "b": 0.0235,
+          "a": 1.0
+        },
+        "environmentColor1Boost": {
+          "r": 0.3961,
+          "g": 0.0039,
+          "b": 0.7412,
+          "a": 1.0
+        }
+      }
+    }
+  ],
+  "_customData": {
+    "_contributors": [
+      {
+        "_name": "Undeceiver",
+        "_role": "Mapping",
+        "_iconPath": ""
+      },
+      {
+        "_name": "DesperateWoman",
+        "_role": "Lighting",
+        "_iconPath": ""
+      },
+      {
+        "_name": "RateGyro",
+        "_role": "Guest mapping",
+        "_iconPath": ""
+      },
+      {
+        "_name": "GalaxyMaster",
+        "_role": "Testplay & Timing advice",
+        "_iconPath": ""
+      },
+      {
+        "_name": "AllPoland",
+        "_role": "Timing advice",
+        "_iconPath": ""
+      }
+    ],
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.11.793"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "OneSaber",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyOneSaber.dat",
+          "_noteJumpMovementSpeed": 8,
+          "_noteJumpStartBeatOffset": 0,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalOneSaber.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardOneSaber.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertOneSaber.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": -0.75,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusOneSaber.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": -0.75,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lawless",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusLawless.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": -1,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_requirements": [
+              "Noodle Extensions"
+            ],
+            "_difficultyLabel": "Rate Poodles"
+          }
+        }
+      ]
+    }
+  ]
+}
