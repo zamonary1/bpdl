@@ -7,7 +7,7 @@ Written in rust🦀
 
 ## Installation
 ```bash
-cargo install --release
+cargo install --path .
 ```
 
 ## Usage
